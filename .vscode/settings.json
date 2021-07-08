@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/626943f7-4fe1-4f1a-8008-11828b671a5b/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/dotnet-core-api-demo"
+}
